@@ -4,12 +4,6 @@ from datetime import date
 
 FILENAME = 'student.txt'
 LOGGED_IN_USER = None  # Global variable to store the logged-in username
-'''
-yosef bekele
-berhane tesfay
-hana shewareged
-tesfu habtewold
-yonas tilahun'''
 
 def front_page():
     os.system('cls')   
