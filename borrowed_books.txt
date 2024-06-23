@@ -1,0 +1,2 @@
+book_name: ye ana mastawesha:borrowed_by: yosef:id_no: 1501588:borrow_date: 2024-06-09 21:31:55
+book_name: lijinet:borrowed_by: yosef_2:id_no: 1501590:borrow_date: 2024-06-09 21:32:27
